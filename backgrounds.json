@@ -1,0 +1,402 @@
+{
+    "backgrounds": {
+        "acolyte": [
+            1000,
+            [
+                "holy symbol",
+                "book",
+                "book",
+                "book",
+                "incense",
+                "vestments",
+                "common clothes",
+                "credstick"
+            ]
+        ],
+        "charlatan": [
+            1000,
+            [
+                "upper class clothes",
+                "disguise kit",
+                "forgery kit",
+                "tools for a con of your choice (Andrew remove this if item was not added and this is still here)",
+                "credstick"
+            ]
+        ],
+        "criminal": [
+            1000,
+            [
+                "simple weapon of your choice",
+                "common clothes",
+                "thieves' tools or hacking software (Andrew remove this if item was not added and this is still here)",
+                "basic holster",
+                "credstick"
+            ]
+        ],
+        "entertainer": [
+            1500,
+            [
+                "musical instrument",
+                "wireless microphone",
+                "favor from an admirer (Andrew remove this if item was not added and this is still here)",
+                "costume clothes",
+                "upper class clothes",
+                "credstick"
+            ]
+        ],
+        "sage": [
+            500,
+            [
+                "mark i computer of your choice (Andrew remove this if item was not added and this is still here)",
+                "common clothes",
+                "scanner or detector of your choice (Andrew remove this if item was not added and this is still here)",
+                "credstick"
+            ]
+        ],
+        "soldier": [
+            1500,
+            [
+                "insignia of rank",
+                "trophy from a foe",
+                "gambling set",
+                "common clothes",
+                "basic holster",
+                "credstick",
+                "cyberware purchase (half price once at character creation) (Andrew remove this if item was not added and this is still here)"
+            ]
+        ],
+        "urchin": [
+            500,
+            [
+                "simple melee weapon of your choice (Andrew remove this if item was not added and this is still here)",
+                "map of your home city",
+                "tiny pet",
+                "token of your family",
+                "thieves' tools",
+                "common clothes",
+                "disguise kit",
+                "credstick"
+            ]
+        ],
+        "bounty hunter": [
+            1500,
+            [
+                "well-used trap",
+                "trophy from a long-captured mark",
+                "manacles",
+                "common clothes",
+                "subvocal communicator or short wave communicator (Andrew remove this if item was not added and this is still here)",
+                "basic holster",
+                "credstick"
+            ]
+        ],
+        "cryosleeper": [
+            1000,
+            [
+                "bauble from your life before you left it behind",
+                "common clothes out of style",
+                "tool or instrument of your choice (Andrew remove this if item was not added and this is still here)",
+                "trinket from the first person you met",
+                "credstick"
+            ]
+        ],
+        "deep spacer": [
+            750,
+            [
+                "musical instrument of your choice (Andrew remove this if item was not added and this is still here)",
+                "navigator's tools",
+                "common clothes",
+                "handheld game",
+                "simple weapon of your choice (Andrew remove this if item was not added and this is still here)",
+                "credstick"
+            ]
+        ],
+        "famed": [
+            1000,
+            [
+                "artisan's tools of your choice (Andrew remove this if item was not added and this is still here)",
+                "personal object from your hometown",
+                "common clothes",
+                "traveling pack of your choice (Andrew remove this if item was not added and this is still here)",
+                "credstick"
+            ]
+        ],
+        "fugitive": [
+            1000,
+            [
+                "artisan's tools of your choice (Andrew remove this if item was not added and this is still here)",
+                "thermal clothes",
+                "common clothes",
+                "white noise generator or jammer (Andrew remove this if item was not added and this is still here)",
+                "credstick"
+            ]
+        ],
+        "linguist": [
+            1000,
+            [
+                "mark i computer of your choice (Andrew remove this if item was not added and this is still here)",
+                "common clothes",
+                "translation book for a language you don't know (Andrew remove this if item was not added and this is still here)",
+                "credstick"
+            ]
+        ],
+        "mechanic": [
+            1000,
+            [
+                "noise canceling headphones",
+                "expendable plasma battery",
+                "repair kit",
+                "navigator's tools or scanning tools of your choice (Andrew remove this if item was not added and this is still here)",
+                "common clothes",
+                "unarmored vacsuit",
+                "credstick"
+            ]
+        ],
+        "naturalist": [
+            1000,
+            [
+                "first aid kit or scanning tools (Andrew remove this if item was not added and this is still here)",
+                "photography camera",
+                "handheld mark i",
+                "binoculars",
+                "sleeping bag",
+                "headlamp",
+                "climbing gear or diving gear",
+                "spacer's clothes",
+                "credstick"
+            ]
+        ],
+        "occultist": [
+            1500,
+            [
+                "arcane focus",
+                "book",
+                "book",
+                "book",
+                "common clothes",
+                "credstick"
+            ]
+        ],
+        "physician": [
+            1500,
+            [
+                "first aid kit or scanning tool of your choice (Andrew remove this if item was not added and this is still here)",
+                "suitcase",
+                "upper class clothes",
+                "credstick"
+            ]
+        ],
+        "pilot": [
+            2000,
+            [
+                "gaming set of your choice (Andrew remove this if item was not added and this is still here)",
+                "unarmored vacsuit",
+                "common clothes",
+                "dashboard decoration",
+                "flight goggles",
+                "credstick"
+            ]
+        ],
+        "professional": [
+            1500,
+            [
+                "artisan's tools of your choice or scanning tool of your choice (Andrew remove this if item was not added and this is still here)",
+                "common clothes",
+                "suitcase",
+                "datachip",
+                "credstick"
+            ]
+
+        ],
+        "test subject": [
+            500,
+            [
+                "common clothes",
+                "trinket",
+                "trinket",
+                "credstick",
+                "cyberware at half cost at character creation",
+                "optional magical cyber upgrades if experiment source is magical"
+            ]
+        ],
+        "wanderer": [
+            1500,
+            [
+                "short wave communicator",
+                "photography camera",
+                "earbuds",
+                "flight goggles",
+                "suitcase",
+                "common clothes",
+                "credstick"
+            ]
+        ],
+        "wealthy": [
+            2500,
+            [
+                "upper class clothing",
+                "mark 0 communicator",
+                "symbol of status",
+                "credstick"
+            ]
+        ],
+        "zealot": [
+            1500,
+            [
+                "musical instrument of your choice (Andrew remove this if item was not added and this is still here)",
+                "common clothes",
+                "symbol of what you are devoted to",
+                "credstick"
+            ]
+        ],
+        "conservationist": [
+            1500,
+            [
+                "soil and water analyzer",
+                "packet of seeds",
+                "tent",
+                "thermal clothes",
+                "gardening kit",
+                "credstick"
+            ]
+        ],
+        "explorer": [
+            1000,
+            [
+                "tools you are proficient in from this background",
+                "safari hat",
+                "sleeping bag",
+                "backpack",
+                "traveler's clothes",
+                "tent",
+                "planetary atlas or map for a single star system",
+                "climbing gear or diving gear",
+                "credstick"
+            ]
+        ],
+        "feral": [
+            500,
+            [
+                "damaged common clothes",
+                "fine clothes from first person you encountered",
+                "week's worth of scavenged rations",
+                "token of the creatures that raised you",
+                "quarterstaff",
+                "dagger or spear you made yourself",
+                "raw mineral lump (500 cc value)",
+                "handmade musical instrument",
+                "hand-woven net",
+                "credstick"
+            ]
+        ],
+        "marooned": [
+            1000,
+            [
+                "artisan's tools of your choice (Andrew remove this if item was not added and this is still here)",
+                "gambling set of your choice (Andrew remove this if item was not added and this is still here)",
+                "damaged common clothes",
+                "broken pistol with a single bullet",
+                "diary",
+                "badge or emblem of the group that abandoned you",
+                "token from the place you were marooned on",
+                "credstick"
+            ]
+        ],
+        "pioneer": [
+            1000,
+            [
+                "artisan's tools of your choice (Andrew remove this if item was not added and this is still here)",
+                "navigator's tools",
+                "multipurpose tool",
+                "tent",
+                "water purifier",
+                "common clothes",
+                "crowbar",
+                "saw",
+                "ward or superstitious item meant to protect your home",
+                "credstick"
+            ]
+        ],
+        "amnesiac": [
+            1500,
+            [
+                "slightly damaged common clothes",
+                "trinket from your past",
+                "blank thumbdrive",
+                "piece of jewelry with an unfamiliar symbol on it",
+                "credstick"
+            ]
+        ],
+        "clone": [
+            1500,
+            [
+                "common or upper class clothes",
+                "mark 0 communicator",
+                "datachip with information about your creation",
+                "pen",
+                "ream of paper",
+                "credstick"
+            ]
+        ],
+        "diplomat": [
+            1500,
+            [
+                "upper class clothes",
+                "business clothes",
+                "flask",
+                "mark i handheld computer",
+                "language translation chip",
+                "language translation chip",
+                "pen",
+                "wireless microphone",
+                "credstick"
+            ]
+        ],
+        "techie": [
+            1250,
+            [
+                "common clothes",
+                "spellcasting focus of your choice",
+                "mark i computer of your choice",
+                "multipurpose tool",
+                "research journal",
+                "noise canceling headphones",
+                "credstick"
+            ]
+        ],
+        "vigilante": [
+            1250,
+            [
+                "costume clothes",
+                "common clothes",
+                "grappling hook",
+                "thieves' tools",
+                "binoculars",
+                "nightvision goggles",
+                "short wave communicator",
+                "credstick"
+            ]
+        ],
+        "haunted one": [
+            750,
+            [
+                "simple melee weapon of your choice (Andrew remove this if item was not added and this is still here)",
+                "backpack",
+                "hammer",
+                "wooden stake",
+                "wooden stake",
+                "wooden stake",
+                "holy symbol (amulet/emblem)",
+                "flask of purification fluid",
+                "manacles",
+                "steel mirror",
+                "synthetic machine oil",
+                "fireless flare",
+                "flashlight",
+                "common clothes",
+                "credstick",
+                "trinket of special significance (Andrew remove this if item was not added and this is still here)"
+            ]
+        ]
+    }
+}

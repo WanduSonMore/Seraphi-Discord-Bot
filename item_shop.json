@@ -1,0 +1,3108 @@
+{
+    "clickseal helmet 1": {
+        "price": 250,
+        "magic": false
+    },
+    "clickseal helmet 2": {
+        "price": 500,
+        "magic": false
+    },
+    "clickseal helmet 3": {
+        "price": 750,
+        "magic": false
+    },
+    "clickseal helmet 4": {
+        "price": 1000,
+        "magic": false
+    },
+    "clickseal helmet 5": {
+        "price": 1250,
+        "magic": false
+    },
+    "shield bracer 1": {
+        "price": 250,
+        "magic": false
+    },
+    "shield bracer 2": {
+        "price": 500,
+        "magic": false
+    },
+    "shield bracer 3": {
+        "price": 750,
+        "magic": false
+    },
+    "shield bracer 4": {
+        "price": 1000,
+        "magic": false
+    },
+    "shield bracer 5": {
+        "price": 1250,
+        "magic": false
+    },
+    "omniwire": {
+        "price": 1000,
+        "magic": false
+    },
+    "leather/plasticene": {
+        "price": 100,
+        "magic": false
+    },
+    "kevlar mesh": {
+        "price": 500,
+        "magic": false
+    },
+    "plexisteel flightsuit": {
+        "price": 500,
+        "magic": false,
+        "contains": [
+            "plexisteel flightsuit",
+            "clickseal helmet 2",
+            "atmospheric filter",
+            "oxygen/nitrogen tank"
+        ]
+    },
+    "rawhide coat": {
+        "price": 200,
+        "magic": false
+    },
+    "plexisteel vacsuit": {
+        "price": 1000,
+        "magic": false,
+        "contains": [
+            "plexisteel vacsuit",
+            "clickseal helmet 2",
+            "atmospheric filter",
+            "oxygen/nitrogen tank"
+        ]
+    },
+    "carbon fiber omniwire": {
+        "price": 1500,
+        "magic": false
+    },
+    "power suit": {
+        "price": 1500,
+        "magic": false
+    },
+    "carbon fiber flightsuit": {
+        "price": 1000,
+        "magic": false,
+        "contains": [
+            "carbon fiber flightsuit",
+            "clickseal helmet 2",
+            "atmospheric filter",
+            "oxygen/nitrogen tank"
+        ]
+    },
+    "titanium-lined coat": {
+        "price": 300,
+        "magic": false
+    },
+    "titanium mesh": {
+        "price": 750,
+        "magic": false
+    },
+    "carbon fiber breastplate": {
+        "price": 1000,
+        "magic": false
+    },
+    "carbon fiber vacsuit": {
+        "price": 1500,
+        "magic": false,
+        "contains": [
+            "carbon fiber vacsuit",
+            "clickseal helmet 2",
+            "atmospheric filter",
+            "oxygen/nitrogen tank"
+        ]
+    },
+    "carbanium omniwire": {
+        "price": 2000,
+        "magic": false
+    },
+    "carbon titanium mesh": {
+        "price": 1500,
+        "magic": false
+    },
+    "carbanium plates": {
+        "price": 2000,
+        "magic": false
+    },
+    "security suit": {
+        "price": 3000,
+        "magic": false
+    },
+    "carbanium vacsuit": {
+        "price": 4000,
+        "magic": false,
+        "contains": [
+            "carbanium vacsuit",
+            "clickseal helmet 2",
+            "atmospheric filter",
+            "oxygen/nitrogen tank"
+        ]
+    },
+    "battletech suit": {
+        "price": 5000,
+        "magic": false
+    },
+    "metal shield": {
+        "price": 50,
+        "magic": false
+    },
+    "tower shield": {
+        "price": 250,
+        "magic": false
+    },
+    "energy buckler": {
+        "price": 250,
+        "magic": false
+    },
+    "energy tower shield": {
+        "price": 500,
+        "magic": false
+    },
+    "jump jets": {
+        "price": 500,
+        "magic": false
+    },
+    "magboots": {
+        "price": 1500,
+        "magic": false
+    },
+    "radiation dampener": {
+        "price": 1000,
+        "magic": false
+    },
+    "temperature regulator": {
+        "price": 1000,
+        "magic": false
+    },
+    "visegrip gloves": {
+        "price": 1500,
+        "magic": false
+    },
+    "mark i": {
+        "price": 500,
+        "magic": false
+    },
+    "mark ii": {
+        "price": 1500,
+        "magic": false
+    },
+    "mark iii": {
+        "price": 4500,
+        "magic": false
+    },
+    "mark iv": {
+        "price": 13500,
+        "magic": false
+    },
+    "mark v": {
+        "price": 40500,
+        "magic": false
+    },
+    "atmospheric filter": {
+        "price": 750,
+        "magic": false
+    },
+    "flare compensator": {
+        "price": 1500,
+        "magic": false
+    },
+    "headlamp clickseal helmet": {
+        "price": 25,
+        "magic": false
+    },
+    "infrared visor": {
+        "price": 2000,
+        "magic": false
+    },
+    "omniscan visor": {
+        "price": 1000,
+        "magic": false
+    },
+    "oxygen/nitrogen tank": {
+        "price": 250,
+        "magic": false
+    },
+    "satellite comm unit": {
+        "price": 100,
+        "magic": false
+    },
+    "short wave comm unit": {
+        "price": 100,
+        "magic": false
+    },
+    "vibration dampener": {
+        "price": 1000,
+        "magic": false
+    },
+    "club": {
+        "price": 5,
+        "magic": false
+    },
+    "crowbar": {
+        "price": 30,
+        "magic": false
+    },
+    "dagger": {
+        "price": 30,
+        "magic": false
+    },
+    "greatclub": {
+        "price": 15,
+        "magic": false
+    },
+    "hammer": {
+        "price": 20,
+        "magic": false
+    },
+    "handaxe": {
+        "price": 30,
+        "magic": false
+    },
+    "javelin": {
+        "price": 25,
+        "magic": false
+    },
+    "plasma staff": {
+        "price": 200,
+        "magic": false
+    },
+    "shock gauntlet": {
+        "price": 200,
+        "magic": false
+    },
+    "spear": {
+        "price": 50,
+        "magic": false
+    },
+    "staff": {
+        "price": 30,
+        "magic": false
+    },
+    "stun baton": {
+        "price": 150,
+        "magic": false
+    },
+    "battleaxe": {
+        "price": 150,
+        "magic": false
+    },
+    "dueling blade": {
+        "price": 250,
+        "magic": false
+    },
+    "glaive": {
+        "price": 200,
+        "magic": false
+    },
+    "greataxe": {
+        "price": 250,
+        "magic": false
+    },
+    "greatsword": {
+        "price": 300,
+        "magic": false
+    },
+    "lance": {
+        "price": 200,
+        "magic": false
+    },
+    "longsword": {
+        "price": 150,
+        "magic": false
+    },
+    "maul": {
+        "price": 250,
+        "magic": false
+    },
+    "plasma axe": {
+        "price": 500,
+        "magic": false
+    },
+    "plasma sword": {
+        "price": 500,
+        "magic": false
+    },
+    "plasma whip": {
+        "price": 500,
+        "magic": false
+    },
+    "shortsword": {
+        "price": 100,
+        "magic": false
+    },
+    "war pick": {
+        "price": 150,
+        "magic": false
+    },
+    "warhammer": {
+        "price": 150,
+        "magic": false
+    },
+    "whip": {
+        "price": 50,
+        "magic": false
+    },
+    "bolt action rifle": {
+        "price": 800,
+        "magic": false,
+        "contains": [
+            "bolt action rifle",
+            "scope"
+        ]
+    },
+    "arcbow": {
+        "price": 1000,
+        "magic": false,
+        "contains": [
+            "scope",
+            "arcbow"
+        ]
+    },
+    "compound shortbow": {
+        "price": 200,
+        "magic": false
+    },
+    "palm pistol": {
+        "price": 500,
+        "magic": false
+    },
+    "pistol": {
+        "price": 400,
+        "magic": false
+    },
+    "plasma pistol": {
+        "price": 500,
+        "magic": false
+    },
+    "plasma rifle": {
+        "price": 1000,
+        "magic": false,
+        "contains": [
+            "scope",
+            "plasma rifle"
+        ]
+    },
+    "plasma shotgun": {
+        "price": 1000,
+        "magic": false
+    },
+    "shotgun": {
+        "price": 800,
+        "magic": false
+    },
+    "submachine gun": {
+        "price": 600,
+        "magic": false
+    },
+    "automatic pistol": {
+        "price": 600,
+        "magic": false
+    },
+    "automatic rifle": {
+        "price": 1200,
+        "magic": false,
+        "contains": [
+            "scope",
+            "automatic rifle"
+        ]
+    },
+    "beam rifle": {
+        "price": 2000,
+        "magic": false,
+        "contains": [
+            "scope",
+            "beam rifle"
+        ]
+    },
+    "blowgun": {
+        "price": 100,
+        "magic": false
+    },
+    "compound longbow": {
+        "price": 500,
+        "magic": false
+    },
+    "grappling hook": {
+        "price": 500,
+        "magic": false
+    },
+    "heavy machine gun": {
+        "price": 3000,
+        "magic": false
+    },
+    "heavy pistol": {
+        "price": 500,
+        "magic": false
+    },
+    "light machine gun": {
+        "price": 2500,
+        "magic": false
+    },
+    "plasma gatling gun": {
+        "price": 2750,
+        "magic": false
+    },
+    "net": {
+        "price": 25,
+        "magic": false
+    },
+    "net launcher": {
+        "price": 600,
+        "magic": false
+    },
+    "plasma annihilator": {
+        "price": 8500,
+        "magic": false
+    },
+    "plasma blaster": {
+        "price": 1000,
+        "magic": false
+    },
+    "sniper rifle": {
+        "price": 7000,
+        "magic": false,
+        "contains": [
+            "scope",
+            "sniper rifle"
+        ]
+    },
+    "flamethrower (energythrower)": {
+        "price": 1500,
+        "magic": false
+    },
+    "grenade launcher": {
+        "price": 3000,
+        "magic": false
+    },
+    "rocket launcher": {
+        "price": 6000,
+        "magic": false
+    },
+    "low acid canister": {
+        "price": 50,
+        "magic": false
+    },
+    "low blaze grenade": {
+        "price": 25,
+        "magic": false
+    },
+    "low explosive charges": {
+        "price": 75,
+        "magic": false
+    },
+    "low explosive rocket": {
+        "price": 125,
+        "magic": false
+    },
+    "low fire canister": {
+        "price": 50,
+        "magic": false
+    },
+    "low flash bang grenade": {
+        "price": 25,
+        "magic": false
+    },
+    "low liquid nitrogen canister": {
+        "price": 50,
+        "magic": false
+    },
+    "low liquid nitrogen grenade": {
+        "price": 25,
+        "magic": false
+    },
+    "low plasma grenade": {
+        "price": 20,
+        "magic": false
+    },
+    "low plasma rocket": {
+        "price": 125,
+        "magic": false
+    },
+    "low shrapnel grenade": {
+        "price": 25,
+        "magic": false
+    },
+    "low sonic canister": {
+        "price": 50,
+        "magic": false
+    },
+    "low sonic grenade": {
+        "price": 25,
+        "magic": false
+    },
+    "middle acid canister": {
+        "price": 150,
+        "magic": false
+    },
+    "middle blaze grenade": {
+        "price": 75,
+        "magic": false
+    },
+    "middle explosive charges": {
+        "price": 225,
+        "magic": false
+    },
+    "middle explosive rocket": {
+        "price": 375,
+        "magic": false
+    },
+    "middle fire canister": {
+        "price": 150,
+        "magic": false
+    },
+    "middle flash bang grenade": {
+        "price": 75,
+        "magic": false
+    },
+    "middle liquid nitrogen canister": {
+        "price": 150,
+        "magic": false
+    },
+    "middle liquid nitrogen grenade": {
+        "price": 75,
+        "magic": false
+    },
+    "middle plasma grenade": {
+        "price": 60,
+        "magic": false
+    },
+    "middle plasma rocket": {
+        "price": 375,
+        "magic": false
+    },
+    "middle shrapnel grenade": {
+        "price": 75,
+        "magic": false
+    },
+    "middle sonic canister": {
+        "price": 150,
+        "magic": false
+    },
+    "middle sonic grenade": {
+        "price": 75,
+        "magic": false
+    },
+    "high acid canister": {
+        "price": 450,
+        "magic": false
+    },
+    "high blaze grenade": {
+        "price": 225,
+        "magic": false
+    },
+    "high explosive charges": {
+        "price": 675,
+        "magic": false
+    },
+    "high explosive rocket": {
+        "price": 1125,
+        "magic": false
+    },
+    "high fire canister": {
+        "price": 450,
+        "magic": false
+    },
+    "high flash bang grenade": {
+        "price": 225,
+        "magic": false
+    },
+    "high liquid nitrogen canister": {
+        "price": 450,
+        "magic": false
+    },
+    "high liquid nitrogen grenade": {
+        "price": 225,
+        "magic": false
+    },
+    "high plasma grenade": {
+        "price": 180,
+        "magic": false
+    },
+    "high plasma rocket": {
+        "price": 1125,
+        "magic": false
+    },
+    "high shrapnel grenade": {
+        "price": 225,
+        "magic": false
+    },
+    "high sonic canister": {
+        "price": 450,
+        "magic": false
+    },
+    "high sonic grenade": {
+        "price": 225,
+        "magic": false
+    },
+    "normal ballistic rounds (50)": {
+        "price": 10,
+        "magic": false
+    },
+    "armor piercing rounds (10)": {
+        "price": 300,
+        "magic": false
+    },
+    "rubber rounds (10)": {
+        "price": 100,
+        "magic": false
+    },
+    "subsonic rounds (10)": {
+        "price": 300,
+        "magic": false
+    },
+    "expendable plasma battery": {
+        "price": 100,
+        "magic": false
+    },
+    "x-large magazine": {
+        "price": 100,
+        "magic": false
+    },
+    "manual detonator": {
+        "price": 25,
+        "magic": false
+    },
+    "motion detonator": {
+        "price": 100,
+        "magic": false
+    },
+    "pressure detonator": {
+        "price": 100,
+        "magic": false
+    },
+    "timed detonator": {
+        "price": 50,
+        "magic": false
+    },
+    "basic holster": {
+        "price": 10,
+        "magic": false
+    },
+    "firearm strap": {
+        "price": 15,
+        "magic": false
+    },
+    "stealth holster": {
+        "price": 100,
+        "magic": false
+    },
+    "trick holster": {
+        "price": 100,
+        "magic": false
+    },
+    "basic scope": {
+        "price": 100,
+        "magic": false
+    },
+    "infrared scope": {
+        "price": 500,
+        "magic": false
+    },
+    "magnification scope": {
+        "price": 100,
+        "magic": false
+    },
+    "night vision scope": {
+        "price": 300,
+        "magic": false
+    },
+    "magnification scope (extreme)": {
+        "price": 300,
+        "magic": false
+    },
+    "energy weapon muffler": {
+        "price": 750,
+        "magic": false
+    },
+    "heavy weapon silencer": {
+        "price": 1000,
+        "magic": false
+    },
+    "light weapon silencer": {
+        "price": 500,
+        "magic": false
+    },
+    "tripod": {
+        "price": 300,
+        "magic": false
+    },
+    "bone lacing": {
+        "price": 3000,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber communication link": {
+        "price": 500,
+        "magic": false,
+        "cyberware": true
+    },
+    "cortex bomb": {
+        "price": 2000,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber eyes": {
+        "price": 750,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber darkvision": {
+        "price": 250,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber flare compensation": {
+        "price": 800,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber image link": {
+        "price": 750,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber infrared": {
+        "price": 1000,
+        "magic": false,
+        "cyberware": true
+    },
+    "retinal duplicator": {
+        "price": 1500,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber vision magnification": {
+        "price": 450,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber ears": {
+        "price": 750,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber audio enhancement": {
+        "price": 450,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber damper": {
+        "price": 600,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber sound link": {
+        "price": 450,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber arm": {
+        "price": 1200,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber hand/foot": {
+        "price": 600,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber leg": {
+        "price": 1200,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber lower arm/leg": {
+        "price": 600,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber skull": {
+        "price": 1500,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber torso": {
+        "price": 2000,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber compartment": {
+        "price": 50,
+        "magic": false,
+        "cyberware": true
+    },
+    "gyromount": {
+        "price": 100,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber holster": {
+        "price": 50,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber weapon slot": {
+        "price": 100,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber datajack": {
+        "price": 100,
+        "magic": false,
+        "cyberware": true
+    },
+    "dermal plating": {
+        "price": 2000,
+        "magic": false,
+        "cyberware": true
+    },
+    "nervewire": {
+        "price": 5000,
+        "magic": false,
+        "cyberware": true
+    },
+    "fingertip compartment": {
+        "price": 150,
+        "magic": false,
+        "cyberware": true
+    },
+    "internal air tank": {
+        "price": 1500,
+        "magic": false,
+        "cyberware": true
+    },
+    "smuggling compartment": {
+        "price": 750,
+        "magic": false,
+        "cyberware": true
+    },
+    "tooth compartment": {
+        "price": 750,
+        "magic": false,
+        "cyberware": true
+    },
+    "voice modulator": {
+        "price": 150,
+        "magic": false,
+        "cyberware": true
+    },
+    "communicator mark 0": {
+        "price": 300,
+        "magic": false
+    },
+    "cyber mark i": {
+        "price": 1000,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber mark ii": {
+        "price": 2000,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber mark iii": {
+        "price": 4000,
+        "magic": false,
+        "cyberware": true
+    },
+    "desktop mark ii": {
+        "price": 800,
+        "magic": false
+    },
+    "desktop mark iii": {
+        "price": 1600,
+        "magic": false
+    },
+    "desktop mark iv": {
+        "price": 8000,
+        "magic": false
+    },
+    "handheld mark i": {
+        "price": 800,
+        "magic": false
+    },
+    "handheld mark ii": {
+        "price": 1600,
+        "magic": false
+    },
+    "super mark iv": {
+        "price": 1200,
+        "magic": false
+    },
+    "super mark v": {
+        "price": 16000,
+        "magic": false
+    },
+    "camera hardware": {
+        "price": 50,
+        "magic": false
+    },
+    "cartography software": {
+        "price": 300,
+        "magic": false
+    },
+    "categorized library software": {
+        "price": 50,
+        "magic": false
+    },
+    "communication software": {
+        "price": 200,
+        "magic": false
+    },
+    "encryption software": {
+        "price": 300,
+        "magic": false
+    },
+    "full immersion software": {
+        "price": 1000,
+        "magic": false
+    },
+    "game software": {
+        "price": 80,
+        "magic": false
+    },
+    "hacking software": {
+        "price": 250,
+        "magic": false
+    },
+    "major security software": {
+        "price": 500,
+        "magic": false
+    },
+    "microphone hardware": {
+        "price": 25,
+        "magic": false
+    },
+    "photo editing software": {
+        "price": 100,
+        "magic": false
+    },
+    "spaceflight calculation software": {
+        "price": 500,
+        "magic": false
+    },
+    "translation software": {
+        "price": 1000,
+        "magic": false
+    },
+    "video/audio editing software": {
+        "price": 100,
+        "magic": false
+    },
+    "air mattress": {
+        "price": 50,
+        "magic": false
+    },
+    "antitoxin (vial)": {
+        "price": 200,
+        "magic": false
+    },
+    "arcane focus (book)": {
+        "price": 100,
+        "magic": false
+    },
+    "arcane focus (orb)": {
+        "price": 100,
+        "magic": false
+    },
+    "arcane focus (set of rings)": {
+        "price": 100,
+        "magic": false
+    },
+    "arcane focus (rod)": {
+        "price": 100,
+        "magic": false
+    },
+    "arcane focus (wand)": {
+        "price": 100,
+        "magic": false
+    },
+    "area energy barrier mark i": {
+        "price": 500,
+        "magic": false
+    },
+    "area energy barrier mark ii": {
+        "price": 1500,
+        "magic": false
+    },
+    "area energy barrier mark iii": {
+        "price": 4500,
+        "magic": false
+    },
+    "area energy barrier mark iv": {
+        "price": 13500,
+        "magic": false
+    },
+    "area energy barrier mark v": {
+        "price": 40500,
+        "magic": false
+    },
+    "backpack": {
+        "price": 20,
+        "magic": false
+    },
+    "ball bearings (bag of 1000)": {
+        "price": 10,
+        "magic": false
+    },
+    "battery, normal": {
+        "price": 20,
+        "magic": false
+    },
+    "bell": {
+        "price": 10,
+        "magic": false
+    },
+    "blanket": {
+        "price": 10,
+        "magic": false
+    },
+    "binoculars": {
+        "price": 50,
+        "magic": false
+    },
+    "book": {
+        "price": 30,
+        "magic": false
+    },
+    "bottle (glass)": {
+        "price": 5,
+        "magic": false
+    },
+    "bottle (plastic)": {
+        "price": 5,
+        "magic": false
+    },
+    "bungee cord": {
+        "price": 10,
+        "magic": false
+    },
+    "calculator": {
+        "price": 25,
+        "magic": false
+    },
+    "caltrops (bag of 20)": {
+        "price": 10,
+        "magic": false
+    },
+    "candle": {
+        "price": 1,
+        "magic": false
+    },
+    "cane/walker": {
+        "price": 25,
+        "magic": false
+    },
+    "canned air": {
+        "price": 10,
+        "magic": false
+    },
+    "chain (10 feet)": {
+        "price": 50,
+        "magic": false
+    },
+    "cleanup kit": {
+        "price": 20,
+        "magic": false
+    },
+    "climbing gear": {
+        "price": 100,
+        "magic": false
+    },
+    "clothes, common": {
+        "price": 35,
+        "magic": false
+    },
+    "clothes, business": {
+        "price": 125,
+        "magic": false
+    },
+    "clothes, costume": {
+        "price": 100,
+        "magic": false
+    },
+    "clothes, spacer": {
+        "price": 20,
+        "magic": false
+    },
+    "clothes, upper class": {
+        "price": 250,
+        "magic": false
+    },
+    "clothes, vacation": {
+        "price": 50,
+        "magic": false
+    },
+    "communicator (short wave)": {
+        "price": 100,
+        "magic": false
+    },
+    "communicator (sub vocal)": {
+        "price": 300,
+        "magic": false
+    },
+    "communicator (transvoid)": {
+        "price": 500,
+        "magic": false
+    },
+    "contact neurotoxin": {
+        "price": 1000,
+        "magic": false
+    },
+    "cooler (3' x 2' x 2')": {
+        "price": 30,
+        "magic": false
+    },
+    "cooling fluid": {
+        "price": 25,
+        "magic": false
+    },
+    "credstick": {
+        "price": 5,
+        "magic": false
+    },
+    "crutches": {
+        "price": 25,
+        "magic": false
+    },
+    "datachip": {
+        "price": 25,
+        "magic": false
+    },
+    "dehydrated capsule shelter": {
+        "price": 500,
+        "magic": false
+    },
+    "de-icing fluid": {
+        "price": 25,
+        "magic": false
+    },
+    "diving gear": {
+        "price": 250,
+        "magic": false
+    },
+    "ear plugs": {
+        "price": 5,
+        "magic": false
+    },
+    "earbuds": {
+        "price": 5,
+        "magic": false
+    },
+    "extinguisher": {
+        "price": 25,
+        "magic": false
+    },
+    "fanny pack": {
+        "price": 15,
+        "magic": false
+    },
+    "fireless flare": {
+        "price": 50,
+        "magic": false
+    },
+    "fishing rod and supplies": {
+        "price": 25,
+        "magic": false
+    },
+    "flashlight": {
+        "price": 10,
+        "magic": false
+    },
+    "flask": {
+        "price": 15,
+        "magic": false
+    },
+    "flight goggles": {
+        "price": 25,
+        "magic": false
+    },
+    "gas filter mask": {
+        "price": 100,
+        "magic": false
+    },
+    "gas rebreather mask": {
+        "price": 500,
+        "magic": false
+    },
+    "glow goop": {
+        "price": 10,
+        "magic": false
+    },
+    "glue": {
+        "price": 5,
+        "magic": false
+    },
+    "grip gloves": {
+        "price": 500,
+        "magic": false
+    },
+    "handheld magnet": {
+        "price": 5,
+        "magic": false
+    },
+    "handheld vacuum": {
+        "price": 25,
+        "magic": false
+    },
+    "harness": {
+        "price": 25,
+        "magic": false
+    },
+    "headlamp": {
+        "price": 15,
+        "magic": false
+    },
+    "hearing aid": {
+        "price": 25,
+        "magic": false
+    },
+    "heating gel": {
+        "price": 25,
+        "magic": false
+    },
+    "holoprojector": {
+        "price": 1000,
+        "magic": false
+    },
+    "holy symbol (amulet/emblem)": {
+        "price": 50,
+        "magic": false
+    },
+    "hover tray": {
+        "price": 50,
+        "magic": false
+    },
+    "immersive simrig": {
+        "price": 1000,
+        "magic": false
+    },
+    "jammer": {
+        "price": 1000,
+        "magic": false
+    },
+    "jug or bucket": {
+        "price": 10,
+        "magic": false
+    },
+    "keylogger": {
+        "price": 250,
+        "magic": false
+    },
+    "ladder, extendable (10 feet)": {
+        "price": 25,
+        "magic": false
+    },
+    "laser pointer": {
+        "price": 10,
+        "magic": false
+    },
+    "lighter": {
+        "price": 5,
+        "magic": false
+    },
+    "machine oil, synthetic": {
+        "price": 10,
+        "magic": false
+    },
+    "mage sight goggles": {
+        "price": 1000,
+        "magic": false
+    },
+    "magnetic lock": {
+        "price": 50,
+        "magic": false
+    },
+    "magnifying glass": {
+        "price": 10,
+        "magic": false
+    },
+    "manacles": {
+        "price": 50,
+        "magic": false
+    },
+    "medigel": {
+        "price": 50,
+        "magic": false
+    },
+    "miniwelder": {
+        "price": 250,
+        "magic": false
+    },
+    "mirror, full": {
+        "price": 25,
+        "magic": false
+    },
+    "mirror, hand": {
+        "price": 10,
+        "magic": false
+    },
+    "night vision goggles": {
+        "price": 250,
+        "magic": false
+    },
+    "nightveil extract": {
+        "price": 1000,
+        "magic": false
+    },
+    "noise canceling headphones": {
+        "price": 25,
+        "magic": false
+    },
+    "padlock": {
+        "price": 10,
+        "magic": false
+    },
+    "paper": {
+        "price": 5,
+        "magic": false
+    },
+    "pen, pencil, or marker": {
+        "price": 25,
+        "magic": false
+    },
+    "perfume": {
+        "price": 100,
+        "magic": false
+    },
+    "perfume, upper class": {
+        "price": 50,
+        "magic": false
+    },
+    "photography camera": {
+        "price": 50,
+        "magic": false
+    },
+    "pole, extendable": {
+        "price": 10,
+        "magic": false
+    },
+    "portable simrig": {
+        "price": 100,
+        "magic": false
+    },
+    "printer": {
+        "price": 500,
+        "magic": false
+    },
+    "prosthetic limb": {
+        "price": 100,
+        "magic": false
+    },
+    "quiver or spare magazine": {
+        "price": 25,
+        "magic": false
+    },
+    "ram, portable": {
+        "price": 10,
+        "magic": false
+    },
+    "repair kit": {
+        "price": 5,
+        "magic": false
+    },
+    "research journal": {
+        "price": 5,
+        "magic": false
+    },
+    "scratch resistant coating": {
+        "price": 15,
+        "magic": false
+    },
+    "sleeping bag": {
+        "price": 25,
+        "magic": false
+    },
+    "soap and shampoo": {
+        "price": 5,
+        "magic": false
+    },
+    "solvent": {
+        "price": 25,
+        "magic": false
+    },
+    "spacer's rations": {
+        "price": 25,
+        "magic": false
+    },
+    "spectacles": {
+        "price": 5,
+        "magic": false
+    },
+    "stereo": {
+        "price": 25,
+        "magic": false
+    },
+    "stim toy": {
+        "price": 25,
+        "magic": false
+    },
+    "suitcase": {
+        "price": 2,
+        "magic": false
+    },
+    "synthetic rope": {
+        "price": 50,
+        "magic": false
+    },
+    "synthetic rope, wire": {
+        "price": 100,
+        "magic": false
+    },
+    "tent, 4-person": {
+        "price": 50,
+        "magic": false
+    },
+    "tent, 4-person luxury": {
+        "price": 200,
+        "magic": false
+    },
+    "thermal clothes": {
+        "price": 100,
+        "magic": false
+    },
+    "tool, multipurpose": {
+        "price": 15,
+        "magic": false
+    },
+    "translation datachip": {
+        "price": 100,
+        "magic": false
+    },
+    "unarmored vacsuit": {
+        "price": 250,
+        "magic": false
+    },
+    "universal translator": {
+        "price": 1500,
+        "magic": false
+    },
+    "vial": {
+        "price": 5,
+        "magic": false
+    },
+    "video camera": {
+        "price": 100,
+        "magic": false
+    },
+    "visual translator": {
+        "price": 1000,
+        "magic": false
+    },
+    "water bottle": {
+        "price": 5,
+        "magic": false
+    },
+    "water rebreather": {
+        "price": 250,
+        "magic": false
+    },
+    "wheelchair": {
+        "price": 50,
+        "magic": false
+    },
+    "whistle": {
+        "price": 5,
+        "magic": false
+    },
+    "white noise generator": {
+        "price": 1000,
+        "magic": false
+    },
+    "wireless glasses": {
+        "price": 500,
+        "magic": false
+    },
+    "wireless microphone": {
+        "price": 50,
+        "magic": false
+    },
+    "wiretap": {
+        "price": 250,
+        "magic": false
+    },
+    "breaking and entering pack": {
+        "price": 200,
+        "magic": false,
+        "contains": [
+            "backpack",
+            "ball bearings (bag of 1000)",
+            "binoculars",
+            "bungee cord x2",
+            "caltrops (bag of 20)",
+            "canned air",
+            "cleanup kit",
+            "headlamp",
+            "glue",
+            "pole, extendable (10 feet)",
+            "solvent",
+            "synthetic rope (50 feet)"
+        ]
+    },
+    "doctor's pack": {
+        "price": 300,
+        "magic": false,
+        "contains": [
+            "backpack",
+            "antitoxin (vial)",
+            "blanket",
+            "cleanup kit",
+            "flask",
+            "needle and thread",
+            "glue",
+            "headlamp",
+            "medigel x2",
+            "notebook",
+            "pen"
+        ]
+    },
+    "entertainer's pack": {
+        "price": 200,
+        "magic": false,
+        "contains": [
+            "backpack",
+            "battery x2",
+            "book",
+            "costume clothes",
+            "common clothes",
+            "hand mirror",
+            "photography camera",
+            "water bottle",
+            "wireless microphone",
+            "instrument (choice)"
+        ]
+    },
+    "mechanic's pack": {
+        "price": 400,
+        "magic": false,
+        "contains": [
+            "backpack",
+            "battery x5",
+            "bungee cord x2",
+            "canned air",
+            "cooling fluid",
+            "de-icing fluid",
+            "headlamp",
+            "heating gel",
+            "hover tray",
+            "synthetic machine oil",
+            "miniwelder",
+            "noise canceling headphones",
+            "multipurpose tool",
+            "extinguisher",
+            "sleeping bag"
+        ]
+    },
+    "military supply pack": {
+        "price": 200,
+        "magic": false,
+        "contains": [
+            "backpack",
+            "binoculars",
+            "spacer clothes",
+            "ear plugs",
+            "flashlight",
+            "synthetic machine oil",
+            "lighter",
+            "sleeping bag",
+            "spacer's rations (3 days)",
+            "synthetic wire rope (50 feet)",
+            "water bottle",
+            "thermal clothes"
+        ]
+    },
+    "occult scholar's pack": {
+        "price": 100,
+        "magic": false,
+        "contains": [
+            "backpack",
+            "arcane focus (choice)",
+            "book (magic theory)",
+            "flashlight",
+            "magnifying glass",
+            "pencils",
+            "pens",
+            "paper (ream)"
+        ]
+    },
+    "planetary explorer's pack": {
+        "price": 300,
+        "magic": false,
+        "contains": [
+            "backpack",
+            "binoculars",
+            "climbing gear",
+            "cooler",
+            "fireless flare",
+            "fishing rod and supplies",
+            "flask",
+            "water bottle",
+            "sleeping bag",
+            "soap and shampoo",
+            "flashlight",
+            "battery (normal)",
+            "thermal clothes",
+            "synthetic rope (50 feet)",
+            "spacer's rations (3 days)"
+        ]
+    },
+    "politician's pack": {
+        "price": 400,
+        "magic": false,
+        "contains": [
+            "backpack",
+            "upper class clothes",
+            "business clothes",
+            "datachip",
+            "lighter",
+            "hand mirror",
+            "perfume (vial)",
+            "photography camera",
+            "soap and shampoo",
+            "flask"
+        ]
+    },
+    "scientist's pack": {
+        "price": 200,
+        "magic": false,
+        "contains": [
+            "backpack",
+            "book x2 (scientific)",
+            "business clothes",
+            "spacer clothes",
+            "voice recorder",
+            "handheld magnet",
+            "headlamp",
+            "laser pointer",
+            "calculator",
+            "pen",
+            "paper (ream)",
+            "research journal",
+            "photography camera",
+            "water bottle"
+        ]
+    },
+    "spacefarer's pack": {
+        "price": 200,
+        "magic": false,
+        "contains": [
+            "backpack",
+            "battery x5",
+            "blanket",
+            "bungee cord x2",
+            "spacer clothes",
+            "extinguisher",
+            "flashlight",
+            "harness",
+            "synthetic machine oil",
+            "pole, extendable (10 feet)",
+            "soap and shampoo",
+            "spacer's rations (3 days)",
+            "stereo",
+            "synthetic rope (50 feet)",
+            "water bottle"
+        ]
+    },
+    "atmospheric detector": {
+        "price": 250,
+        "magic": false
+    },
+    "dna scanner": {
+        "price": 1000,
+        "magic": false
+    },
+    "electromagnetic scanner": {
+        "price": 500,
+        "magic": false
+    },
+    "fluid detector": {
+        "price": 250,
+        "magic": false
+    },
+    "intervoid sonar": {
+        "price": 1000,
+        "magic": false
+    },
+    "light wave scanner": {
+        "price": 500,
+        "magic": false
+    },
+    "molecular scanner": {
+        "price": 1000,
+        "magic": false
+    },
+    "radiation detector": {
+        "price": 250,
+        "magic": false
+    },
+    "satellite mapper": {
+        "price": 1000,
+        "magic": false
+    },
+    "sonar mapper": {
+        "price": 1000,
+        "magic": false
+    },
+    "artisan tools": {
+        "price": 250,
+        "magic": false
+    },
+    "disguise kit": {
+        "price": 250,
+        "magic": false
+    },
+    "first aid kit": {
+        "price": 250,
+        "magic": false
+    },
+    "forgery kit": {
+        "price": 150,
+        "magic": false
+    },
+    "digital games": {
+        "price": 80,
+        "magic": false
+    },
+    "playing cards": {
+        "price": 10,
+        "magic": false
+    },
+    "pilot's dice": {
+        "price": 10,
+        "magic": false
+    },
+    "starbird go": {
+        "price": 80,
+        "magic": false
+    },
+    "instrument (brass)": {
+        "price": 250,
+        "magic": false
+    },
+    "instrument (percussion)": {
+        "price": 150,
+        "magic": false
+    },
+    "instrument (strings)": {
+        "price": 350,
+        "magic": false
+    },
+    "synth": {
+        "price": 200,
+        "magic": false
+    },
+    "instrument (winds)": {
+        "price": 150,
+        "magic": false
+    },
+    "navigator's tools": {
+        "price": 500,
+        "magic": false
+    },
+    "poisoner's kit": {
+        "price": 250,
+        "magic": false
+    },
+    "thieves' tools": {
+        "price": 500,
+        "magic": false
+    },
+    "airway cruiser": {
+        "price": 10000,
+        "magic": false
+    },
+    "hovercopter": {
+        "price": 10000,
+        "magic": false
+    },
+    "all-terrain master": {
+        "price": 7500,
+        "magic": false
+    },
+    "jet submarine": {
+        "price": 10000,
+        "magic": false
+    },
+    "battle master": {
+        "price": 20000,
+        "magic": false
+    },
+    "military cruiser": {
+        "price": 20000,
+        "magic": false
+    },
+    "camper": {
+        "price": 3000,
+        "magic": false
+    },
+    "pulse cycle": {
+        "price": 1000,
+        "magic": false
+    },
+    "exploration cruiser": {
+        "price": 15000,
+        "magic": false
+    },
+    "racing speeder": {
+        "price": 2000,
+        "magic": false
+    },
+    "hover cruiser": {
+        "price": 5000,
+        "magic": false
+    },
+    "urban cruiser": {
+        "price": 2000,
+        "magic": false
+    },
+    "all-terrain boots": {
+        "price": 250,
+        "magic": false
+    },
+    "chameleon weave": {
+        "price": 750,
+        "magic": false
+    },
+    "concealed holster": {
+        "price": 100,
+        "magic": false
+    },
+    "grappling spikes": {
+        "price": 250,
+        "magic": false
+    },
+    "reinforced chassis": {
+        "price": 4000,
+        "magic": false
+    },
+    "shoulder lights": {
+        "price": 50,
+        "magic": false
+    },
+    "stabilization chassis": {
+        "price": 500,
+        "magic": false
+    },
+    "streamline chassis": {
+        "price": 2000,
+        "magic": false
+    },
+    "winch belt": {
+        "price": 1000,
+        "magic": false
+    },
+    "ammunition, tranquilizer (50)": {
+        "price": 50,
+        "magic": false
+    },
+    "ammunition, underwater (10)": {
+        "price": 50,
+        "magic": false
+    },
+    "bayonet (large)": {
+        "price": 100,
+        "magic": false
+    },
+    "bayonet (plasma)": {
+        "price": 150,
+        "magic": false
+    },
+    "bayonet (small)": {
+        "price": 50,
+        "magic": false
+    },
+    "grenado side-barrel": {
+        "price": 500,
+        "magic": false
+    },
+    "laser sight": {
+        "price": 500,
+        "magic": false
+    },
+    "poison repository": {
+        "price": 250,
+        "magic": false
+    },
+    "remote-fire mechanism": {
+        "price": 1000,
+        "magic": false
+    },
+    "soaking quiver": {
+        "price": 500,
+        "magic": false
+    },
+    "telescoping haft": {
+        "price": 100,
+        "magic": false
+    },
+    "tranquilizer barrel": {
+        "price": 300,
+        "magic": false
+    },
+    "underwater barrel": {
+        "price": 300,
+        "magic": false
+    },
+    "antivenom glands": {
+        "price": 2400,
+        "magic": false,
+        "bioware": true
+    },
+    "amplified audio sensing": {
+        "price": 1200,
+        "magic": false,
+        "bioware": true
+    },
+    "bark skin": {
+        "price": 2000,
+        "magic": false,
+        "bioware": true
+    },
+    "bolstered immune system": {
+        "price": 1800,
+        "magic": false,
+        "bioware": true
+    },
+    "bone reinforcement": {
+        "price": 4000,
+        "magic": false,
+        "bioware": true
+    },
+    "claws": {
+        "price": 300,
+        "magic": false,
+        "bioware": true
+    },
+    "darkvision bioware": {
+        "price": 1200,
+        "magic": false,
+        "bioware": true
+    },
+    "enhanced olfactories": {
+        "price": 500,
+        "magic": false,
+        "bioware": true
+    },
+    "fins/webbing": {
+        "price": 750,
+        "magic": false,
+        "bioware": true
+    },
+    "fur": {
+        "price": 500,
+        "magic": false,
+        "bioware": true
+    },
+    "gills": {
+        "price": 750,
+        "magic": false,
+        "bioware": true
+    },
+    "heightened reflexes": {
+        "price": 5000,
+        "magic": false,
+        "bioware": true
+    },
+    "improved athleticism": {
+        "price": 6000,
+        "magic": false,
+        "bioware": true
+    },
+    "interlung filtration": {
+        "price": 2000,
+        "magic": false,
+        "bioware": true
+    },
+    "pheromone gland": {
+        "price": 1500,
+        "magic": false,
+        "bioware": true
+    },
+    "plant prosthetic": {
+        "price": 1200,
+        "magic": false,
+        "bioware": true
+    },
+    "prehensile tail": {
+        "price": 2000,
+        "magic": false,
+        "bioware": true
+    },
+    "radiation absorption gland": {
+        "price": 500,
+        "magic": false,
+        "bioware": true
+    },
+    "scaled skin": {
+        "price": 2000,
+        "magic": false,
+        "bioware": true
+    },
+    "skin pouch": {
+        "price": 500,
+        "magic": false,
+        "bioware": true
+    },
+    "wings": {
+        "price": 5000,
+        "magic": false,
+        "bioware": true
+    },
+    "body modification": {
+        "price": 550,
+        "magic": false,
+        "bioware": true
+    },
+    "body piercing": {
+        "price": 25,
+        "magic": false,
+        "bioware": true
+    },
+    "ear sculpting": {
+        "price": 250,
+        "magic": false,
+        "bioware": true
+    },
+    "eye customization": {
+        "price": 350,
+        "magic": false,
+        "bioware": true
+    },
+    "permanent hair alteration": {
+        "price": 250,
+        "magic": false,
+        "bioware": true
+    },
+    "tattoo (small)": {
+        "price": 75,
+        "magic": false,
+        "bioware": true
+    },
+    "tattoo (large)": {
+        "price": 150,
+        "magic": false,
+        "bioware": true
+    },
+    "teeth/mouth reshaping": {
+        "price": 450,
+        "magic": false,
+        "bioware": true
+    },
+    "advanced injury poison": {
+        "price": 200,
+        "magic": false
+    },
+    "basic injury poison": {
+        "price": 50,
+        "magic": false
+    },
+    "batrachotoxin": {
+        "price": 500,
+        "magic": false
+    },
+    "clement's tincture": {
+        "price": 300,
+        "magic": false
+    },
+    "deathlily pollen": {
+        "price": 500,
+        "magic": false
+    },
+    "ethenotoxin": {
+        "price": 300,
+        "magic": false
+    },
+    "frost ravager venom": {
+        "price": 500,
+        "magic": false
+    },
+    "mutaplast gas": {
+        "price": 750,
+        "magic": false
+    },
+    "natelotoxin": {
+        "price": 300,
+        "magic": false
+    },
+    "necrotoxin": {
+        "price": 1000,
+        "magic": false
+    },
+    "ravelweed venom": {
+        "price": 500,
+        "magic": false
+    },
+    "steambreath poison": {
+        "price": 750,
+        "magic": false
+    },
+    "slumber root": {
+        "price": 300,
+        "magic": false
+    },
+    "tetradotoxin": {
+        "price": 750,
+        "magic": false
+    },
+    "verity serum": {
+        "price": 500,
+        "magic": false
+    },
+    "baby's breath": {
+        "price": 100,
+        "magic": false
+    },
+    "bloodroot": {
+        "price": 50,
+        "magic": false
+    },
+    "feel-me-not": {
+        "price": 100,
+        "magic": false
+    },
+    "high note": {
+        "price": 50,
+        "magic": false
+    },
+    "pebble": {
+        "price": 250,
+        "magic": false
+    },
+    "stardust": {
+        "price": 50,
+        "magic": false
+    },
+    "vypersense": {
+        "price": 250,
+        "magic": false
+    },
+    "wyrmhole": {
+        "price": 50,
+        "magic": false
+    },
+    "3d printing pen": {
+        "price": 75,
+        "magic": false
+    },
+    "3d printer": {
+        "price": 300,
+        "magic": false
+    },
+    "adrenaline patch": {
+        "price": 50,
+        "magic": false
+    },
+    "animal snare": {
+        "price": 150,
+        "magic": false
+    },
+    "antibiotic": {
+        "price": 250,
+        "magic": false
+    },
+    "antiparasitic": {
+        "price": 250,
+        "magic": false
+    },
+    "antiviral": {
+        "price": 250,
+        "magic": false
+    },
+    "bolas": {
+        "price": 25,
+        "magic": false
+    },
+    "chainsaw": {
+        "price": 250,
+        "magic": false
+    },
+    "compass": {
+        "price": 100,
+        "magic": false
+    },
+    "dryer/blower": {
+        "price": 25,
+        "magic": false
+    },
+    "gardening kit": {
+        "price": 50,
+        "magic": false
+    },
+    "insect repellent": {
+        "price": 10,
+        "magic": false
+    },
+    "location microchip": {
+        "price": 100,
+        "magic": false
+    },
+    "mini chainsaw": {
+        "price": 250,
+        "magic": false
+    },
+    "pet carrier": {
+        "price": 25,
+        "magic": false
+    },
+    "pot": {
+        "price": 10,
+        "magic": false
+    },
+    "solar panel": {
+        "price": 500,
+        "magic": false
+    },
+    "telescoping cane": {
+        "price": 25,
+        "magic": false
+    },
+    "water purifier": {
+        "price": 75,
+        "magic": false
+    },
+    "wetfire starter": {
+        "price": 5,
+        "magic": false
+    },
+    "winch": {
+        "price": 250,
+        "magic": false
+    },
+    "wireless watch": {
+        "price": 400,
+        "magic": false
+    },
+    "wristwatch": {
+        "price": 50,
+        "magic": false
+    },
+    "zipline kit": {
+        "price": 250,
+        "magic": false
+    },
+    "auric scanner": {
+        "price": 1000,
+        "magic": false
+    },
+    "microchip tracker": {
+        "price": 750,
+        "magic": false
+    },
+    "soil and water scanner": {
+        "price": 250,
+        "magic": false
+    },
+    "small pet habitat": {
+        "price": 100,
+        "magic": false
+    },
+    "medium pet habitat": {
+        "price": 300,
+        "magic": false
+    },
+    "large pet habitat": {
+        "price": 500,
+        "magic": false
+    },
+    "biped walker": {
+        "price": 5000,
+        "magic": false
+    },
+    "driller": {
+        "price": 7500,
+        "magic": false
+    },
+    "hexiped walker": {
+        "price": 20000,
+        "magic": false
+    },
+    "jet ski": {
+        "price": 1000,
+        "magic": false
+    },
+    "prop plane": {
+        "price": 5000,
+        "magic": false
+    },
+    "snowmobile": {
+        "price": 1000,
+        "magic": false
+    },
+    "baghnakh": {
+        "price": 150,
+        "magic": false
+    },
+    "heavy ratchet": {
+        "price": 40,
+        "magic": false
+    },
+    "plasma chakram": {
+        "price": 300,
+        "magic": false
+    },
+    "plasma dagger": {
+        "price": 300,
+        "magic": false
+    },
+    "reinforced gauntlet": {
+        "price": 100,
+        "magic": false
+    },
+    "multi-capacitor railgun": {
+        "price": 3000,
+        "magic": false
+    },
+    "terror blaster": {
+        "price": 2500,
+        "magic": false
+    },
+    "vacuum gun": {
+        "price": 600,
+        "magic": false
+    },
+    "adhesive grenade tier i": {
+        "price": 15,
+        "magic": false
+    },
+    "adhesive grenade tier ii": {
+        "price": 75,
+        "magic": false
+    },
+    "adhesive grenade tier iii": {
+        "price": 300,
+        "magic": false
+    },
+    "directional grenade tier i": {
+        "price": 25,
+        "magic": false
+    },
+    "directional grenade tier ii": {
+        "price": 75,
+        "magic": false
+    },
+    "directional grenade tier iii": {
+        "price": 300,
+        "magic": false
+    },
+    "goop grenade": {
+        "price": 100,
+        "magic": false
+    },
+    "gravity grenade": {
+        "price": 200,
+        "magic": false
+    },
+    "lightning canister tier i": {
+        "price": 50,
+        "magic": false
+    },
+    "lightning canister tier ii": {
+        "price": 150,
+        "magic": false
+    },
+    "lightning canister tier iii": {
+        "price": 450,
+        "magic": false
+    },
+    "lightning grenade tier i": {
+        "price": 25,
+        "magic": false
+    },
+    "lightning grenade tier ii": {
+        "price": 75,
+        "magic": false
+    },
+    "lightning grenade tier iii": {
+        "price": 300,
+        "magic": false
+    },
+    "magnetization grenade": {
+        "price": 150,
+        "magic": false
+    },
+    "mirv missile tier i": {
+        "price": 150,
+        "magic": false
+    },
+    "mirv missile tier ii": {
+        "price": 450,
+        "magic": false
+    },
+    "mirv missile tier iii": {
+        "price": 900,
+        "magic": false
+    },
+    "network pulse grenade": {
+        "price": 150,
+        "magic": false
+    },
+    "radiation grenade": {
+        "price": 350,
+        "magic": false
+    },
+    "animated tattoo, large": {
+        "price": 300,
+        "magic": true,
+        "mageware": true,
+        "description": "An animated tattoo can change appearance, move across the body, change colors, or animate, and is created using magically infused inks or dyes."
+    },
+    "animated tattoo, small": {
+        "price": 150,
+        "magic": true,
+        "mageware": true,
+        "description": "An animated tattoo can change appearance, move across the body, change colors, or animate, and is created using magically infused inks or dyes."
+    },
+    "bioluminescent runemarks": {
+        "price": 500,
+        "magic": true,
+        "mageware": true,
+        "description": "Implanted rune-carved wires emit dim light in a 5-foot radius and allow you to communicate in Bioluminescent Sign Language."
+    },
+    "dark matter crystal implant": {
+        "price": 3500,
+        "magic": true,
+        "mageware": true,
+        "description": "Choose one sorcerer cantrip; you know it and use Charisma as its spellcasting modifier, and you can have no more than 2 implants."
+    },
+    "dark matter particle funnel": {
+        "price": 2000,
+        "magic": true,
+        "mageware": true,
+        "description": "You have advantage on Constitution saving throws against radiant damage or radiation sickness."
+    },
+    "dimensional pocket": {
+        "price": 1000,
+        "magic": true,
+        "mageware": true,
+        "description": "The implant creates a dimensional pocket space that stores one non-living object weighing 10 lbs. or less, refreshes its air periodically, and opens when its chosen command word is spoken."
+    },
+    "mageware ears": {
+        "price": 1000,
+        "magic": true,
+        "mageware": true,
+        "description": "Mageware ears replace your ears and can be modified with additional features."
+    },
+    "mageware amplification": {
+        "price": 500,
+        "magic": true,
+        "mageware": true,
+        "description": "You have advantage on Wisdom (Perception) checks related to sound."
+    },
+    "mageware eyes": {
+        "price": 1000,
+        "magic": true,
+        "mageware": true,
+        "description": "Mageware eyes replace your eyes and serve as the base for various upgrades."
+    },
+    "mageware darkvision": {
+        "price": 400,
+        "magic": true,
+        "mageware": true,
+        "description": "You gain darkvision out to 60 feet."
+    },
+    "mageware magnification": {
+        "price": 750,
+        "magic": true,
+        "mageware": true,
+        "description": "You can see up to three times farther than normal with great clarity, without affecting other types of sight."
+    },
+    "magesight": {
+        "price": 2000,
+        "magic": true,
+        "mageware": true,
+        "description": "As a bonus action, you can see magical auras within 30 feet for 1 minute, as if you had cast detect magic; this ability recharges after 10 minutes."
+    },
+    "mageware limb": {
+        "price": 1200,
+        "magic": true,
+        "mageware": true,
+        "description": "Mageware limbs can replace arms or legs and support up to four add-ons, with only one add-on active at a time."
+    },
+    "mageware limb compartment": {
+        "price": 200,
+        "magic": true,
+        "mageware": true,
+        "description": "A mageware limb compartment stores items, and retrieving or stowing items from it grants advantage on Stealth checks."
+    },
+    "mageware limb weapon": {
+        "price": 1000,
+        "magic": true,
+        "mageware": true,
+        "description": "A built-in melee weapon is magical for overcoming damage resistances and immunities, requires an interaction to draw if retracted, and costs the weapon’s normal price in addition to the add-on."
+
+    },
+    "mageware limb extension": {
+        "price": 3000,
+        "magic": true,
+        "mageware": true,
+        "description": "Mageware arms extend your reach to 10 feet, while mageware legs double your jump distance."
+    },
+    "mageware limb strengthening": {
+        "price": 6000,
+        "magic": true,
+        "mageware": true,
+        "description": "You have advantage on Strength (Athletics) checks made using your mageware limbs."
+    },
+    "telekinetic hand conductor": {
+        "price": 3500,
+        "magic": true,
+        "mageware": true,
+        "description": "You gain a phantom hand that can interact with objects within 10 feet, exert up to 5 pounds of pressure, and carry up to 10 lbs."
+    },
+    "mageware fractal wings": {
+        "price": 10000,
+        "magic": true,
+        "mageware": true,
+        "description": "You gain a 20-foot fly speed, considered magical flight."
+    },
+    "runic vein stents": {
+        "price": 3000,
+        "magic": true,
+        "mageware": true,
+        "description": "You have resistance to poison damage and advantage on saving throws against effects that impose the poisoned condition."
+    },
+    "dermal abjuration bolsters": {
+        "price": 2000,
+        "magic": true,
+        "mageware": true,
+        "description": "While not wearing armor, your base AC is 12 + your Dexterity modifier, and this counts as wearing armor for abilities that modify AC."
+    },
+    "acceleration node": {
+        "price": 5000,
+        "magic": true,
+        "mageware": true,
+        "description": "Your movement speed increases by 10 feet."
+    },
+    "stamina reinforcement module": {
+        "price": 4000,
+        "magic": true,
+        "mageware": true,
+        "description": "Your hit points increase by an amount equal to your level, and you gain 1 additional hit point whenever you gain a level. This augmentation cannot be used with mageware limbs, bone lacing, or bone reinforcement."
+    },
+    "telepathic crux chip": {
+        "price": 3000,
+        "magic": true,
+        "mageware": true,
+        "description": "You can communicate telepathically with a creature within 30 feet if you share at least one language."
+    },
+    "vocal calibrator": {
+        "price": 750,
+        "magic": true,
+        "mageware": true,
+        "description": "You can alter the tone, pitch, speed, and other aspects of your voice, and can speak aloud even if you were previously unable to."
+    },
+    "bluetusk adapter": {
+        "price": 50,
+        "magic": false
+    },
+    "bluetusk headset": {
+        "price": 50,
+        "magic": false
+    },
+    "bluetusk hover module": {
+        "price": 250,
+        "magic": false
+    },
+    "dissolution vial": {
+        "price": 10,
+        "magic": false
+    },
+    "magnetic boots": {
+        "price": 1500,
+        "magic": false
+    },
+    "media datachip (book)": {
+        "price": 50,
+        "magic": false
+    },
+    "media datachip (audio)": {
+        "price": 50,
+        "magic": false
+    },
+    "media datachip (video)": {
+        "price": 50,
+        "magic": false
+    },
+    "pack of chewing gum": {
+        "price": 1,
+        "magic": false
+    },
+    "paper face mask": {
+        "price": 2,
+        "magic": false
+    },
+    "sunglasses": {
+        "price": 10,
+        "magic": false
+    },
+    "cyber arm upgrade": {
+        "price": 5000,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber leg upgrade": {
+        "price": 5000,
+        "magic": false,
+        "cyberware": true
+    },
+    "cyber limb tool slot": {
+        "price": 50,
+        "magic": false,
+        "cyberware": true
+    },
+    "embedded wheels": {
+        "price": 800,
+        "magic": false,
+        "cyberware": true
+    },
+    "organ replacement": {
+        "price": 500,
+        "magic": false,
+        "cyberware": true
+    },
+    "citymaster van": {
+        "price": 3000,
+        "magic": false
+    },
+    "clunker": {
+        "price": 1200,
+        "magic": false
+    },
+    "deluxe hoverlimo": {
+        "price": 10000,
+        "magic": false
+    },
+    "hoverbike": {
+        "price": 1500,
+        "magic": false
+    },
+    "light scoot": {
+        "price": 500,
+        "magic": false
+    },
+    "solar surfer": {
+        "price": 1200,
+        "magic": false
+    },
+    "acid": {
+        "price": 50,
+        "magic": false
+    },
+    "alchemist's fire": {
+        "price": 100,
+        "magic": false
+    },
+    "barrel": {
+        "price": 4,
+        "magic": false
+    },
+    "basket": {
+        "price": 1,
+        "magic": false
+    },
+    "block and tackle": {
+        "price": 2,
+        "magic": false
+    },
+    "case, map or scroll": {
+        "price": 2,
+        "magic": false
+    },
+    "chalk (1 piece)": {
+        "price": 1,
+        "magic": false
+    },
+    "chest": {
+        "price": 10,
+        "magic": false
+    },
+    "component pouch": {
+        "price": 50,
+        "magic": false
+    },
+    "hammer, sledge": {
+        "price": 40,
+        "magic": false
+    },
+    "holy water (flask)": {
+        "price": 50,
+        "magic": false
+    },
+    "hourglass": {
+        "price": 50,
+        "magic": false
+    },
+    "hunting trap": {
+        "price": 10,
+        "magic": false
+    },
+    "ink (1 ounce bottle)": {
+        "price": 20,
+        "magic": false
+    },
+    "ink pen": {
+        "price": 1,
+        "magic": false
+    },
+    "lamp": {
+        "price": 1,
+        "magic": false
+    },
+    "lantern, bullseye": {
+        "price": 20,
+        "magic": false
+    },
+    "lantern, hooded": {
+        "price": 10,
+        "magic": false
+    },
+    "oil (flask)": {
+        "price": 1,
+        "magic": false
+    },
+    "piton": {
+        "price": 1,
+        "magic": false
+    },
+    "pouch": {
+        "price": 1,
+        "magic": false
+    },
+    "robes": {
+        "price": 2,
+        "magic": false
+    },
+    "sack": {
+        "price": 1,
+        "magic": false
+    },
+    "scale, merchant\u00e2\u20ac\u2122s": {
+        "price": 10,
+        "magic": false
+    },
+    "sealing wax": {
+        "price": 1,
+        "magic": false
+    },
+    "shovel": {
+        "price": 4,
+        "magic": false
+    },
+    "signet ring": {
+        "price": 10,
+        "magic": false
+    },
+    "spikes, iron (10)": {
+        "price": 2,
+        "magic": false
+    },
+    "tinderbox": {
+        "price": 1,
+        "magic": false
+    },
+    "whetstone": {
+        "price": 1,
+        "magic": false
+    },
+    "blowgun needles (50)": {
+        "price": 2,
+        "magic": false
+    },
+    "arrows (20)": {
+        "price": 2,
+        "magic": false
+    },
+    "potion of healing": {
+        "price": 45,
+        "magic": true,
+        "description": "Restores 2d4+2 hp"
+    },
+    "potion of greater healing": {
+        "price": 300,
+        "magic": true,
+        "description": "Restores 4d4+4 hp"
+    },
+    "potion of superior healing": {
+        "price": 800,
+        "magic": true,
+        "description": "Restores 8d4+4 hp"
+    },
+    "potion of supreme healing": {
+        "price": 6000,
+        "magic": true,
+        "description": "Restores 10d4+20 hp"
+    },
+    "potion of climbing": {
+        "price": 50,
+        "magic": true,
+        "description": "Grants a climb speed and advantage on climbing for 1 hour"
+    },
+    "potion of comprehension": {
+        "price": 64,
+        "magic": true,
+        "description": "Understand all languages for 1 hour (Comprehend Languages)"
+    },
+    "potion of watchful rest": {
+        "price": 80,
+        "magic": true,
+        "description": "You cannot be magically put to sleep and do not need sleep for 8 hours of rest"
+    },
+    "bottled breath": {
+        "price": 200,
+        "magic": true,
+        "description": "Hold your breath for 1 hour or create gust-force air bursts"
+    },
+    "oil of slipperiness": {
+        "price": 400,
+        "magic": true,
+        "description": "Grants Freedom of Movement or Grease effect for 8 hours"
+    },
+    "philter of love": {
+        "price": 100,
+        "magic": true,
+        "description": "Become charmed by the next creature you see"
+    },
+    "potion of advantage": {
+        "price": 350,
+        "magic": true,
+        "description": "Gain advantage on one attack roll, saving throw, or ability check"
+    },
+    "potion of animal friendship": {
+        "price": 110,
+        "magic": true,
+        "description": "Cast Animal Friendship for 1 hour"
+    },
+    "potion of fire breath": {
+        "price": 250,
+        "magic": true,
+        "description": "Breathe fire 3 times (4d6 fire damage each)"
+    },
+    "potion of growth": {
+        "price": 300,
+        "magic": true,
+        "description": "Enlarge effect for 1d4 hours"
+    },
+    "potion of hill giant strength": {
+        "price": 350,
+        "magic": true,
+        "description": "Strength becomes 21 for 1 hour"
+    },
+    "potion of poison": {
+        "price": 120,
+        "magic": true,
+        "description": "Appears like normal health potion but deals 3d6 poison damage instead"
+    },
+    "potion of polychromy": {
+        "price": 160,
+        "magic": true,
+        "description": "Change colors; advantage on stealth for 1 hour"
+    },
+    "potion of psionic fortitude": {
+        "price": 300,
+        "magic": true,
+        "description": "Advantage against charm effects for 1 hour"
+    },
+    "potion of resistance (acid)": {
+        "price": 390,
+        "magic": true,
+        "description": "Resistance to acid damage for 1 hour"
+    },
+    "potion of resistance (cold)": {
+        "price": 390,
+        "magic": true,
+        "description": "Resistance to cold damage for 1 hour"
+    },
+    "potion of resistance (fire)": {
+        "price": 390,
+        "magic": true,
+        "description": "Resistance to fire damage for 1 hour"
+    },
+    "potion of resistance (force)": {
+        "price": 390,
+        "magic": true,
+        "description": "Resistance to force damage for 1 hour"
+    },
+    "potion of resistance (lightning)": {
+        "price": 390,
+        "magic": true,
+        "description": "Resistance to lightning damage for 1 hour"
+    },
+    "potion of resistance (necrotic)": {
+        "price": 390,
+        "magic": true,
+        "description": "Resistance to necrotic damage for 1 hour"
+    },
+    "potion of resistance (poison)": {
+        "price": 390,
+        "magic": true,
+        "description": "Resistance to poison damage for 1 hour"
+    },
+    "potion of resistance (psychic)": {
+        "price": 390,
+        "magic": true,
+        "description": "Resistance to psychic damage for 1 hour"
+    },
+    "potion of resistance (radiant)": {
+        "price": 390,
+        "magic": true,
+        "description": "Resistance to radiant damage for 1 hour"
+    },
+    "potion of resistance (thunder)": {
+        "price": 390,
+        "magic": true,
+        "description": "Resistance to thunder damage for 1 hour"
+    },
+    "potion of stoneskin": {
+        "price": 590,
+        "magic": true,
+        "description": "Resistance to nonmagical bludgeoning, piercing, and slashing for 1 hour"
+    },
+    "potion of water breathing": {
+        "price": 160,
+        "magic": true,
+        "description": "You can breathe underwater for 1 hour"
+    },
+    "elixir of health": {
+        "price": 850,
+        "magic": true,
+        "description": "Cures diseases and removes several conditions"
+    },
+    "oil of etherealness": {
+        "price": 4000,
+        "magic": true,
+        "description": "Become ethereal for 1 hour"
+    },
+    "potion of aqueous form": {
+        "price": 2000,
+        "magic": true,
+        "description": "Become water for 10 minutes"
+    },
+    "potion of clairvoyance": {
+        "price": 2000,
+        "magic": true,
+        "description": "Cast Clairvoyance"
+    },
+    "potion of diminution": {
+        "price": 650,
+        "magic": true,
+        "description": "Reduce size for 1d4 hours"
+    },
+    "potion of fire giant strength": {
+        "price": 3500,
+        "magic": true,
+        "description": "Strength becomes 25 for 1 hour"
+    },
+    "potion of frost giant strength": {
+        "price": 2700,
+        "magic": true,
+        "description": "Strength becomes 23 for 1 hour"
+    },
+    "potion of gaseous form": {
+        "price": 1500,
+        "magic": true,
+        "description": "Become gas for 1 hour"
+    },
+    "potion of heroism": {
+        "price": 2000,
+        "magic": true,
+        "description": "Gain temp HP and Bless effect for 1 hour"
+    },
+    "potion of invulnerability": {
+        "price": 4500,
+        "magic": true,
+        "description": "Resistance to all damage for 1 hour"
+    },
+    "potion of maximum power": {
+        "price": 4200,
+        "magic": true,
+        "description": "Next spell deals maximum damage"
+    },
+    "potion of mind control (beast)": {
+        "price": 800,
+        "magic": true,
+        "description": "Cast Dominate Beast (DC 15)"
+    },
+    "potion of mind control (humanoid)": {
+        "price": 3000,
+        "magic": true,
+        "description": "Cast Dominate Person (DC 15)"
+    },
+    "potion of mind reading": {
+        "price": 2000,
+        "magic": true,
+        "description": "Cast Detect Thoughts"
+    },
+    "potion of stone giant strength": {
+        "price": 2700,
+        "magic": true,
+        "description": "Strength becomes 23 for 1 hour"
+    },
+    "basic poison": {
+        "price": 50,
+        "magic": false
+    },
+    "assassin's blood": {
+        "price": 75,
+        "magic": false
+    },
+    "truth serum": {
+        "price": 75,
+        "magic": false
+    },
+    "carrion crawler mucus": {
+        "price": 100,
+        "magic": false
+    },
+    "drow poison": {
+        "price": 100,
+        "magic": false
+    },
+    "serpent venom": {
+        "price": 100,
+        "magic": false
+    },
+    "malice": {
+        "price": 125,
+        "magic": false
+    },
+    "pale tincture": {
+        "price": 125,
+        "magic": false
+    },
+    "essence of ether": {
+        "price": 150,
+        "magic": false
+    },
+    "oil of taggit": {
+        "price": 200,
+        "magic": false
+    },
+    "burnt othur fumes": {
+        "price": 250,
+        "magic": false
+    },
+    "torpor": {
+        "price": 300,
+        "magic": false
+    },
+    "wyvern poison": {
+        "price": 600,
+        "magic": false
+    },
+    "midnight tears": {
+        "price": 750,
+        "magic": false
+    },
+    "purple worm poison": {
+        "price": 1000,
+        "magic": false
+    },
+    "the emperor's new clothes": {
+        "price": 1000,
+        "magic": true,
+        "description": "A set of fabulous clothes that only intelligent people can see and invisible to those who aren't. The only problem is that the spellcaster who made it had an intelligence of 30."
+    }
+}

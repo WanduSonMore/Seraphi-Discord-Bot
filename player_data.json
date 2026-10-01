@@ -1,0 +1,47 @@
+{
+    "players": {},
+    "tables": {
+        "hailey table": {
+            "players": {},
+            "loot": {
+                "money": 0,
+                "items": {}
+            },
+            "bid active": false
+        },
+        "alijah table": {
+            "players": {},
+            "loot": {
+                "money": 0,
+                "items": {}
+            },
+            "bid active": false
+        },
+        "spencer table": {
+            "players": {},
+            "loot": {
+                "money": 0,
+                "items": {}
+            },
+            "bid active": false
+        },
+        "joseph table": {
+            "players": {},
+            "loot": {
+                "money": 0,
+                "items": {}
+            },
+            "bid active": false
+        },
+        "rotation table": {
+            "players": {},
+            "loot": {
+                "money": 0,
+                "items": {}
+            },
+            "bid active": false
+        }
+    },
+    "level": 1,
+    "session 0": true
+}
